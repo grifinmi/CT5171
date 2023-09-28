@@ -1,4 +1,4 @@
 # CT5171
 changed in Intellij
 And now changed in GIT
-changes in GIT 2nd time
+changed in GIT 2nd time
